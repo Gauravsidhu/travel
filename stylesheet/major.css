@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.login-card {
+  margin-left: 19%;
+  margin-top: 5%;
+}
+
+img#login-img {
+  width: 48%;
+}
+
+.login-form {
+  margin-top: -40%;
+  margin-left: 48%;
+}
+
+input#password {
+  margin-top: 5%;
+  height: 45px;
+}
+
+.eye-icon {
+  margin-top: -34px;
+  margin-left: 94%;
+}
+
+input#email {
+  height: 45px;
+  margin-top: 34px;
+}
+
+h1.welcome {
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.login-data {
+  text-align: center;
+  margin-top: -18%;
+}
+
+p.welcome-content {
+  font-size: 17px;
+  font-weight: 400;
+  margin-top: 3%;
+}
+
+button.login {
+  background: bisque;
+  border: none;
+}
+
+.login-btn {
+  margin-left: 69%;
+  margin-top: 2%;
+}
+
+button.login {
+  background: bisque;
+  border: none;
+  width: 30%;
+  height: 40px;
+  border-radius: 11px;
+}
+
+.new-account {
+  margin-left: 54%;
+  margin-top: 2%;
+}
+
+p.one.and.start {
+  margin-left: 26%;
+  margin-top: -3%;
+}
+
+p.account-content {
+  margin-left: 3%;
+}
+
+a.click {
+  /* text-decoration: underline; */
+  color: black;
+}
+
+p.click-a {
+  margin-left: 63%;
+  margin-top: 1%;
+}
+
+.click:hover {
+  text-decoration: underline;
+}
+
+.account-open{
+  padding-top: 9px;
+}
